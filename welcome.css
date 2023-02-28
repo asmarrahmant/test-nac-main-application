@@ -1,7 +1,7 @@
 @import "reset-style.css";
 
 body{
-    background-image: url(../images/welcome/bg\ image.jpg);
+    background-image: url(welcome\ bg\ image.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
